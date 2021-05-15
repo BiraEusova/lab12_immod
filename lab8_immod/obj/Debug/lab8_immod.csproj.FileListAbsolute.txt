@@ -1,0 +1,10 @@
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\bin\Debug\lab8_immod.exe.config
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\bin\Debug\lab8_immod.exe
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\bin\Debug\lab8_immod.pdb
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\obj\Debug\lab8_immod.csprojAssemblyReference.cache
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\obj\Debug\lab8_immod.Form1.resources
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\obj\Debug\lab8_immod.Properties.Resources.resources
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\obj\Debug\lab8_immod.csproj.GenerateResource.cache
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\obj\Debug\lab8_immod.csproj.CoreCompileInputs.cache
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\obj\Debug\lab8_immod.exe
+C:\Users\irabr\source\repos\lab8_immod\lab8_immod\obj\Debug\lab8_immod.pdb
